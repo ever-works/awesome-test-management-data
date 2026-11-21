@@ -1,0 +1,22 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: ai-powered
+  name: "AI-Powered"
+- id: jira-native
+  name: "Jira-Native"
+- id: open-source
+  name: "Open Source"
+- id: free
+  name: "Free"
+- id: exploratory-testing
+  name: "Exploratory Testing"

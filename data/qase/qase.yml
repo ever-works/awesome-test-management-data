@@ -1,0 +1,12 @@
+name: "Qase"
+description: "Qase is a modern test management platform offering a free tier for small teams and paid plans for scaling. It combines test case management, defect tracking, and real-time reporting with a focus on developer-friendly workflows and API-first design. Cloud-only deployment."
+source_url: "https://qase.io/"
+category: "QA Platforms"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/qase.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://qase.io/>\n"
+updated_at: "2026-11-21 06:05"

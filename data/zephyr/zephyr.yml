@@ -1,0 +1,12 @@
+name: "Zephyr"
+description: "Zephyr Squad (by SmartBear) is a test management solution tightly integrated with Jira, offering advanced planning, execution, and reporting capabilities. It supports both cloud and server deployments and scales for enterprise teams with features like test metrics and traceability."
+source_url: "https://www.smartbear.com/product/zephyr-squad"
+category: "QA Platforms"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "jira-native"
+icon_url: "https://icons.duckduckgo.com/ip3/www.smartbear.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.smartbear.com/product/zephyr-squad>\n"
+updated_at: "2026-11-21 06:05"

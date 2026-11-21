@@ -1,0 +1,12 @@
+- id: test-case-management
+  name: "Test Case Management"
+- id: qa-platforms
+  name: "QA Platforms"
+- id: open-source-test-management
+  name: "Open-Source Test Management"
+- id: jira-native-test-management
+  name: "Jira-Native Test Management"
+- id: exploratory-testing
+  name: "Exploratory Testing"
+- id: test-reporting
+  name: "Test Reporting"

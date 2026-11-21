@@ -1,0 +1,11 @@
+name: "PractiTest"
+description: "PractiTest is an end-to-end test management platform that centralizes QA processes including requirements, test runs, and defect tracking. It features customizable fields, hierarchical filter trees, and integrations with Jira, GitHub, and automation tools. Cloud-based with enterprise-grade security."
+source_url: "https://www.practitest.com/"
+category: "QA Platforms"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.practitest.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.practitest.com/>\n"
+updated_at: "2026-11-21 06:05"

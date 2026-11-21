@@ -1,0 +1,10 @@
+name: "TestLodge"
+description: "TestLodge provides a simple, no-frills test case management tool focused on ease of use for small to mid-sized teams. It offers requirements linking, test plans, and reports with integrations for Jira, GitHub, and Slack. Cloud-only with straightforward per-user pricing."
+source_url: "https://testlodge.com/"
+category: "Test Case Management"
+tags:
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/testlodge.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://testlodge.com/>\n"
+updated_at: "2026-11-21 06:05"

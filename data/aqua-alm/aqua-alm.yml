@@ -1,0 +1,12 @@
+name: "Aqua ALM"
+description: "Aqua ALM is an AI-powered test management platform that unifies manual and automated testing with requirements management and defect tracking. It offers smart test case generation, flaky test detection, and integrations with Jira, Azure DevOps, GitLab, and major CI/CD tools. Cloud-based with enterprise pricing."
+source_url: "https://aqua-cloud.io/"
+category: "QA Platforms"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/aqua-cloud.io.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://aqua-cloud.io/>\n"
+updated_at: "2026-11-21 06:05"

@@ -1,0 +1,11 @@
+name: "TestLink"
+description: "TestLink is a classic open-source test management system providing test specification, execution, and reporting with requirement traceability. It is self-hosted, PHP-based, and supports integration with bug trackers like Bugzilla and Jira. Licensed under GPL with a long history in QA communities."
+source_url: "https://testlink.org/"
+category: "Open-Source Test Management"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/testlink.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://testlink.org/>\n- Repository: <https://github.com/TestLinkOpenSourceTRMS/testlink-code>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 06:05"

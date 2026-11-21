@@ -1,0 +1,12 @@
+name: "Allure TestOps"
+description: "Allure TestOps is a test reporting and analytics platform that aggregates results from multiple test frameworks into actionable dashboards. It supports self-hosted and cloud deployment, offers flaky test detection, and integrates with CI/CD, Jira, and test automation tools."
+source_url: "https://qameta.io/allure-testops"
+category: "Test Reporting"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/qameta.io.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://qameta.io/allure-testops>\n"
+updated_at: "2026-11-21 06:05"

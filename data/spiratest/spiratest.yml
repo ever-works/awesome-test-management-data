@@ -1,0 +1,12 @@
+name: "SpiraTest"
+description: "SpiraTest by Inflectra is a comprehensive ALM and test management platform covering requirements, test cases, tasks, and bugs with full traceability. It offers both cloud and on-premise deployment, robust reporting, and integrations with Jira, Azure DevOps, and automation frameworks."
+source_url: "https://www.inflectra.com/SpiraTest"
+category: "QA Platforms"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/www.inflectra.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.inflectra.com/SpiraTest>\n"
+updated_at: "2026-11-21 06:05"

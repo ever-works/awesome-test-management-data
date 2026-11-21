@@ -1,0 +1,12 @@
+name: "ReportPortal"
+description: "ReportPortal is an open-source test reporting and analytics platform that centralizes test results from multiple frameworks into interactive dashboards. It provides real-time reporting, flaky test detection, and root cause analysis. Self-hosted with a Kubernetes operator and licensed under Apache-2.0."
+source_url: "https://reportportal.io/"
+category: "Test Reporting"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/reportportal.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://reportportal.io/>\n- Repository: <https://github.com/reportportal/reportportal>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 06:05"

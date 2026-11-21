@@ -1,0 +1,31 @@
+company_name: "Awesome Test Management"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome Test Management"
+initial_prompt: "A curated directory of test-case management and QA platforms (TestRail alternatives). Include products such as TestRail, Qase, Xray, Zephyr, Testmo, PractiTest, TestLodge, Kiwi TCMS, TestCollab, Testiny, Tuskr, Allure TestOps, plus other notable commercial and open-source options. Categories: Test Case Management, QA Platforms, Open-Source Test Management, Jira-Native Test Management, Exploratory Testing, Test Reporting. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-test-management-website"
+company_website: "https://test-management.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

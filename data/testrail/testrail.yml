@@ -1,0 +1,12 @@
+name: "TestRail"
+description: "TestRail is a web-based test case management tool designed for QA teams to organize, track, and report on testing efforts. It supports both cloud and self-hosted deployment with extensive integrations including Jira, GitHub, and automation frameworks. Pricing is per-user with enterprise options."
+source_url: "https://www.testrail.com/"
+category: "Test Case Management"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "self-hosted"
+icon_url: "https://icons.duckduckgo.com/ip3/www.testrail.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.testrail.com/>\n"
+updated_at: "2026-11-21 06:05"

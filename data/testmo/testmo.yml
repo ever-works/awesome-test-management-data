@@ -1,0 +1,11 @@
+name: "Testmo"
+description: "Testmo is a unified test management tool for modern QA teams, combining test cases, exploratory testing, and automation results in one interface. It offers self-hosted and cloud options with a focus on performance, rich markdown editing, and deep CI/CD integrations."
+source_url: "https://testmo.com/"
+category: "Test Case Management"
+tags:
+  - "paid"
+  - "self-hosted"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/testmo.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://testmo.com/>\n"
+updated_at: "2026-11-21 06:05"

@@ -1,0 +1,12 @@
+name: "Kiwi TCMS"
+description: "Kiwi TCMS is an open-source test case management system with a web interface, supporting test plans, cases, runs, and bug tracking integration. It is self-hosted, written in Python/Django, and offers a REST API for automation. Licensed under GPL-2.0 with active community development."
+source_url: "https://kiwitcms.org/"
+category: "Open-Source Test Management"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/kiwitcms.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://kiwitcms.org/>\n- Repository: <https://github.com/kiwitcms/Kiwi>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 06:05"

@@ -1,0 +1,11 @@
+name: "Testiny"
+description: "Testiny is a modern, lightweight test management platform with a free plan for up to 5 users. It supports test cases, runs, milestones, and dashboards with a clean UI and integrations for Jira, GitHub, and Slack. Cloud-hosted with freemium pricing."
+source_url: "https://testiny.io/"
+category: "Test Case Management"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/testiny.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://testiny.io/>\n"
+updated_at: "2026-11-21 06:05"

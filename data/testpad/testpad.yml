@@ -1,0 +1,11 @@
+name: "TestPad"
+description: "TestPad is a lightweight test management tool optimized for exploratory and session-based testing with a checklist-style interface. It requires no scripting, supports keyboard-driven workflows, and integrates with Jira, GitHub, and Slack. Cloud-only with simple per-tester pricing."
+source_url: "https://testpad.com/"
+category: "Exploratory Testing"
+tags:
+  - "paid"
+  - "api"
+  - "exploratory-testing"
+icon_url: "https://icons.duckduckgo.com/ip3/testpad.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://testpad.com/>\n"
+updated_at: "2026-11-21 06:05"

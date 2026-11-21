@@ -1,0 +1,12 @@
+name: "Nitrate"
+description: "Nitrate is an open-source test case management system originally developed by Red Hat, featuring test plans, cases, runs, and reporting with a Django backend. It is self-hosted, supports Bugzilla and Jira integration, and provides a REST API. Licensed under GPL-2.0 with community maintenance."
+source_url: "https://nitrate.io/"
+category: "Open-Source Test Management"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/nitrate.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://nitrate.io/>\n- Repository: <https://github.com/Nitrate/Nitrate>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 06:05"

@@ -1,0 +1,10 @@
+name: "Kualitee"
+description: "Kualitee is a test management platform that combines test case management, defect tracking, and test automation integration in a unified workspace. It offers customizable workflows, real-time dashboards, and connections to Jira, GitHub, and CI tools. Cloud-hosted with tiered subscription plans."
+source_url: "https://kualitee.com/"
+category: "QA Platforms"
+tags:
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/kualitee.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://kualitee.com/>\n"
+updated_at: "2026-11-21 06:05"
