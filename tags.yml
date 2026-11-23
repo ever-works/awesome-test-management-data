@@ -1,22 +1,52 @@
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: api
-  name: "API"
+  name: API
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: jira-native
-  name: "Jira-Native"
+  name: Jira-Native
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: free
-  name: "Free"
+  name: Free
 - id: exploratory-testing
-  name: "Exploratory Testing"
+  name: Exploratory Testing
+- id: benchmarking
+  name: Benchmarking
+- id: ci
+  name: CI
+- id: commercial
+  name: Commercial
+- id: cloud
+  name: Cloud
+- id: api-testing
+  name: API Testing
+- id: cicd
+  name: CI/CD
+- id: docker
+  name: Docker
+- id: http
+  name: HTTP
+- id: debugging
+  name: Debugging
+- id: requirements-traceability
+  name: Requirements Traceability
+- id: alm-integration
+  name: ALM Integration
+- id: typescript
+  name: TypeScript
+- id: bugzilla
+  name: Bugzilla
+- id: webhooks
+  name: Webhooks
+- id: testing
+  name: Testing

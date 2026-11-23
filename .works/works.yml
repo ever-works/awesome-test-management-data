@@ -5,15 +5,24 @@ items_name: Items
 paging_mode: paging
 copyright_year: 2026
 name: Awesome Test Management
-initial_prompt: "A curated directory of test-case management and QA platforms
-  (TestRail alternatives). Include products such as TestRail, Qase, Xray,
-  Zephyr, Testmo, PractiTest, TestLodge, Kiwi TCMS, TestCollab, Testiny, Tuskr,
-  Allure TestOps, plus other notable commercial and open-source options.
-  Categories: Test Case Management, QA Platforms, Open-Source Test Management,
-  Jira-Native Test Management, Exploratory Testing, Test Reporting. For every
-  item capture the official website, a short factual description, pricing model
-  (free, freemium, paid, open source), deployment (cloud or self-hosted), key
-  features and integrations."
+initial_prompt: |-
+  A curated directory of test-case management and QA platforms (TestRail alternatives). Include products such as TestRail, Qase, Xray, Zephyr, Testmo, PractiTest, TestLodge, Kiwi TCMS, TestCollab, Testiny, Tuskr, Allure TestOps, plus other notable commercial and open-source options. Categories: Test Case Management, QA Platforms, Open-Source Test Management, Jira-Native Test Management, Exploratory Testing, Test Reporting. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+  Initial categories: Test Case Management; QA Platforms; Open-Source Test Management; Jira-Native Test Management; Exploratory Testing; Test Reporting.
+  Target keywords: test management tool, test case management, testrail alternatives, qa management.
+
+  Start with these source lists (use the raw README link for GitHub lists):
+  - https://openalternative.co/categories/developer-tools/testing-quality-assurance
+  - https://awesome-selfhosted.net/tags/software-development---testing.html
+  - https://github.com/topics/test-management
+  - https://github.com/topics/test-case-management
+
+  Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+  One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+  Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+  Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+  Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+  Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
 website_repo: ever-works/awesome-test-management-website
 company_website: https://test-management.ever.works
 settings:
@@ -31,8 +40,59 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 activity_sync:
   mode: pull
 providers:
   pipeline: agent-pipeline
+metadata:
+  last_request_data:
+    generation_method: create-update
+    update_with_pull_request: false
+    website_repository_creation_method: create-using-template
+    name: Awesome Test Management
+    prompt: |-
+      A curated directory of test-case management and QA platforms (TestRail alternatives). Include products such as TestRail, Qase, Xray, Zephyr, Testmo, PractiTest, TestLodge, Kiwi TCMS, TestCollab, Testiny, Tuskr, Allure TestOps, plus other notable commercial and open-source options. Categories: Test Case Management, QA Platforms, Open-Source Test Management, Jira-Native Test Management, Exploratory Testing, Test Reporting. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+      Initial categories: Test Case Management; QA Platforms; Open-Source Test Management; Jira-Native Test Management; Exploratory Testing; Test Reporting.
+      Target keywords: test management tool, test case management, testrail alternatives, qa management.
+
+      Start with these source lists (use the raw README link for GitHub lists):
+      - https://openalternative.co/categories/developer-tools/testing-quality-assurance
+      - https://awesome-selfhosted.net/tags/software-development---testing.html
+      - https://github.com/topics/test-management
+      - https://github.com/topics/test-case-management
+
+      Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+      One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+      Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+      Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+      Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+      Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+    model: nvidia/nemotron-3.5-super-vl:free
+    providers:
+      pipeline: agent-pipeline
+    pluginConfig:
+      target_items: 50
+      max_pages_to_process: 8
+      capture_screenshots: false
+    _processedPluginConfig: {}
+  initial_prompt: |-
+    A curated directory of test-case management and QA platforms (TestRail alternatives). Include products such as TestRail, Qase, Xray, Zephyr, Testmo, PractiTest, TestLodge, Kiwi TCMS, TestCollab, Testiny, Tuskr, Allure TestOps, plus other notable commercial and open-source options. Categories: Test Case Management, QA Platforms, Open-Source Test Management, Jira-Native Test Management, Exploratory Testing, Test Reporting. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+    Initial categories: Test Case Management; QA Platforms; Open-Source Test Management; Jira-Native Test Management; Exploratory Testing; Test Reporting.
+    Target keywords: test management tool, test case management, testrail alternatives, qa management.
+
+    Start with these source lists (use the raw README link for GitHub lists):
+    - https://openalternative.co/categories/developer-tools/testing-quality-assurance
+    - https://awesome-selfhosted.net/tags/software-development---testing.html
+    - https://github.com/topics/test-management
+    - https://github.com/topics/test-case-management
+
+    Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+    One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+    Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+    Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+    Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+    Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+model: nvidia/nemotron-3.5-super-vl:free

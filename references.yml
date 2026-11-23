@@ -1,8 +1,70 @@
-- url: "https://openalternative.co/categories/developer-tools/testing-quality-assurance"
-  title: "OpenAlternative — Testing & Quality Assurance"
-- url: "https://awesome-selfhosted.net/tags/software-development---testing.html"
-  title: "awesome-selfhosted — Software Development - Testing"
-- url: "https://github.com/topics/test-management"
-  title: "GitHub topic — `test-management` (261 repos)"
-- url: "https://github.com/topics/test-case-management"
-  title: "GitHub topic — `test-case-management` (21 repos)"
+- url: https://awesome-selfhosted.net/tags/software-development---testing.html
+  normalized_url: https://awesome-selfhosted.net/tags/software-development---testing.html
+  first_seen_at: 2026-11-23T00:11:16.475Z
+  last_attempted_at: 2026-11-23T00:11:16.475Z
+  last_success_at: 2026-11-23T00:11:16.475Z
+  status: success
+  items_created: 3
+  pipeline: agent-pipeline
+- url: https://github.com/topics/test-case-management
+  normalized_url: https://github.com/topics/test-case-management
+  first_seen_at: 2026-11-23T00:18:11.542Z
+  last_attempted_at: 2026-11-23T00:18:11.542Z
+  last_success_at: 2026-11-23T00:18:11.542Z
+  status: success
+  items_created: 3
+  pipeline: agent-pipeline
+- url: https://github.com/topics/test-management
+  normalized_url: https://github.com/topics/test-management
+  first_seen_at: 2026-11-23T00:15:26.150Z
+  last_attempted_at: 2026-11-23T00:15:26.150Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/test-management"
+- url: https://keploy.io/blog/community/best-open-source-test-management-tools
+  normalized_url: https://keploy.io/blog/community/best-open-source-test-management-tools
+  first_seen_at: 2026-11-23T00:20:30.612Z
+  last_attempted_at: 2026-11-23T00:20:30.612Z
+  last_success_at: 2026-11-23T00:20:30.612Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline
+- url: https://openalternative.co/categories/developer-tools/testing-quality-assurance
+  normalized_url: https://openalternative.co/categories/developer-tools/testing-quality-assurance
+  first_seen_at: 2026-11-23T00:10:29.432Z
+  last_attempted_at: 2026-11-23T00:10:29.432Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://openalternative.co/categories/developer-tools/testing-quality-assur\
+    ance"
+- url: https://qameta.io/allure-testops
+  normalized_url: https://qameta.io/allure-testops
+  first_seen_at: 2026-11-23T00:20:48.613Z
+  last_attempted_at: 2026-11-23T00:20:48.613Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://qameta.io/allure-testops"
+- url: https://testomat.io
+  normalized_url: https://testomat.io/
+  first_seen_at: 2026-11-23T00:21:32.865Z
+  last_attempted_at: 2026-11-23T00:21:32.865Z
+  last_success_at: 2026-11-23T00:21:32.865Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.testiny.io/testrail-alternatives
+  normalized_url: https://www.testiny.io/testrail-alternatives
+  first_seen_at: 2026-11-23T00:18:39.777Z
+  last_attempted_at: 2026-11-23T00:18:39.777Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.testiny.io/testrail-alternatives"
