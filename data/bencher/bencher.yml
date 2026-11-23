@@ -1,0 +1,40 @@
+name: Bencher
+description: Suite of continuous benchmarking tools designed to catch
+  performance regressions in CI. Open-source benchmarking platform released
+  under MIT and Apache-2.0 licenses, written in Rust.
+source_url: https://bencher.dev/
+category: QA Platforms
+tags:
+  - open-source
+  - self-hosted
+  - benchmarking
+  - CI
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bencher is a suite of continuous benchmarking tools designed to catch
+  performance regressions in CI.
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## License
+
+
+  MIT, Apache-2.0
+
+
+  ## Language
+
+
+  Rust
+brand: Bencher
+brand_logo_url: https://bencher.dev/logo.svg
+images: []
+updated_at: 2026-11-23 00:22

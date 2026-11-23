@@ -1,0 +1,25 @@
+name: WebHook Tester
+description: Powerful tool for testing WebHooks and more.
+source_url: https://webhooktester.com/
+category: QA Platforms
+tags:
+  - open-source
+  - self-hosted
+  - webhooks
+  - testing
+featured: false
+markdown: |-
+  ## Overview
+
+  WebHook Tester is a powerful tool for testing WebHooks and more.
+
+  ## Deployment
+
+  Docker, Kubernetes (K8S)
+
+  ## License
+
+  MIT
+brand: WebHook Tester
+images: []
+updated_at: 2026-11-23 00:22

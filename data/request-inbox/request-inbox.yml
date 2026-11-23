@@ -1,0 +1,43 @@
+name: Request Inbox
+description: Collect and inspect HTTP requests for testing and debugging. Create
+  and manage inboxes, capture detailed request data, and configure custom
+  responses.
+source_url: https://requestinbox.dev/
+category: QA Platforms
+tags:
+  - open-source
+  - self-hosted
+  - HTTP
+  - debugging
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Request Inbox is a tool for collecting and inspecting HTTP requests for
+  testing and debugging purposes.
+
+
+  ## Features
+
+
+  - Create and manage inboxes
+
+  - Capture detailed request data
+
+  - Configure custom responses
+
+
+  ## Deployment
+
+
+  Docker
+
+
+  ## License
+
+
+  Apache-2.0
+brand: Request Inbox
+images: []
+updated_at: 2026-11-23 00:22

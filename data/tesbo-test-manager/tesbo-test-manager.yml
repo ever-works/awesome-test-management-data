@@ -1,0 +1,54 @@
+name: Tesbo Test Manager
+description: Tesbo Test Manager is an open-source test case management system
+  built for QA teams who want to self-host, manage test cases, organize test
+  cycles, and bring AI into their QA workflow without vendor lock-in. The
+  platform is developed in TypeScript and actively maintained. It is freely
+  available as open-source software.
+source_url: https://tesbo.com/
+category: Open-Source Test Management
+tags:
+  - Open Source
+  - Self-Hosted
+  - TypeScript
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tesbo Test Manager is an open-source test case management system designed for
+  QA teams. It supports self-hosted deployment, test case organization, test
+  cycle management, and AI-assisted QA workflows without vendor lock-in.
+
+
+  ## Features
+
+
+  - Test case management
+
+  - Test cycle organization
+
+  - Self-hosted deployment
+
+  - AI-assisted QA workflow
+
+  - Open-source, no vendor lock-in
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Integrations
+
+
+  Not specified.
+brand: Tesbo
+updated_at: 2026-11-23 00:22

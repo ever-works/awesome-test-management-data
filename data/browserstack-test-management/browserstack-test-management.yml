@@ -1,0 +1,69 @@
+name: BrowserStack Test Management
+description: BrowserStack Test Management is a commercial cloud-based QA
+  platform that combines test case management with test automation capabilities.
+  It offers AI-powered test case suggestions generated from requirements
+  documents and integrates with CI/CD pipelines for automated test result
+  ingestion. The platform supports test case repositories, execution tracking,
+  defect linking, and reporting for modern QA teams. Pricing is commercial/paid.
+source_url: https://www.browserstack.com/test-management
+category: QA Platforms
+tags:
+  - Paid
+  - Commercial
+  - AI-Powered
+  - Cloud
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BrowserStack Test Management is a commercial cloud-based QA platform that
+  combines test case management with test automation capabilities. It is
+  designed for QA teams that need test case repositories, execution tracking,
+  defect linking, and reporting in a single SaaS solution.
+
+
+  ## Features
+
+
+  - Test case repository with search and version control
+
+  - Execution tracking with real-time status visibility
+
+  - Defect linking to issue trackers
+
+  - CI/CD integration for automated test result ingestion
+
+  - AI-powered test case suggestions from requirements documents
+
+  - Combines test management and test automation functions
+
+  - Real-time test coverage insights
+
+  - Cloud-native architecture
+
+
+  ## Pricing
+
+
+  Commercial/paid platform. Specific pricing tiers are not detailed in the
+  source content.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+
+
+  ## Integrations
+
+
+  - CI/CD pipelines (GitHub Actions, Jenkins, GitLab CI)
+
+  - Issue trackers and defect management tools
+
+  - Requirements management systems
+brand: BrowserStack
+updated_at: 2026-11-23 00:22

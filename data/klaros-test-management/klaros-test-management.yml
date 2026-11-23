@@ -1,0 +1,52 @@
+name: Klaros Test Management
+description: Klaros Test Management is an open-source test case management
+  platform designed for self-hosted deployment. It supports containerized
+  installation via Docker on both Windows and Linux, enabling teams to manage
+  test cases and test cycles without vendor lock-in. The project is freely
+  available as open-source software.
+source_url: https://www.klaros-testmanagement.de/
+category: Open-Source Test Management
+tags:
+  - Open Source
+  - Self-Hosted
+  - Docker
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Klaros Test Management is an open-source test case management platform for QA
+  teams. It is designed to be self-hosted and installed via Docker on Windows
+  and Linux.
+
+
+  ## Features
+
+
+  - Test case management
+
+  - Test cycle organization
+
+  - Self-hosted deployment
+
+  - Docker-based installation on Windows and Linux
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted; distributed as a Docker setup for Windows and Linux.
+
+
+  ## Integrations
+
+
+  Docker for containerized deployment.
+brand: Klaros
+updated_at: 2026-11-23 00:22

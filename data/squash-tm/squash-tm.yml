@@ -1,0 +1,55 @@
+name: Squash TM
+description: Squash TM is an open-source test management platform supporting
+  manual and automated test suites, requirements traceability, and integration
+  with Jira and CI tools. It is distributed as Docker Compose for self-hosted
+  deployment. The project is actively maintained and freely available under an
+  open-source license.
+source_url: https://squashtest.org/
+category: Open-Source Test Management
+tags:
+  - Open Source
+  - Self-Hosted
+  - Docker
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Squash TM is an open-source test management platform for QA teams. It supports
+  manual and automated test suites, requirements traceability, Jira integration,
+  and CI integration. It is designed for self-hosted deployment via Docker
+  Compose.
+
+
+  ## Features
+
+
+  - Manual and automated test suites
+
+  - Requirements traceability
+
+  - Jira integration
+
+  - CI integration
+
+  - Self-hosted deployment via Docker Compose
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted; distributed as Docker Compose.
+
+
+  ## Integrations
+
+
+  Jira, CI tools, Docker Compose.
+brand: Squash
+updated_at: 2026-11-23 00:22
