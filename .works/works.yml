@@ -95,4 +95,3 @@ metadata:
     Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
     Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
     Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
-model: nvidia/nemotron-3.5-super-vl:free
