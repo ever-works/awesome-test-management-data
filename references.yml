@@ -6,6 +6,14 @@
   status: success
   items_created: 3
   pipeline: agent-pipeline
+- url: https://getzephyr.com
+  normalized_url: https://getzephyr.com/
+  first_seen_at: 2026-11-26T14:15:46.212Z
+  last_attempted_at: 2026-11-26T14:15:46.212Z
+  last_success_at: 2026-11-26T14:15:46.212Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://github.com/topics/test-case-management
   normalized_url: https://github.com/topics/test-case-management
   first_seen_at: 2026-11-23T00:18:11.542Z
@@ -31,6 +39,15 @@
   status: success
   items_created: 4
   pipeline: agent-pipeline
+- url: https://kiwitcms.org
+  normalized_url: https://kiwitcms.org/
+  first_seen_at: 2026-11-26T14:18:26.729Z
+  last_attempted_at: 2026-11-26T14:18:26.729Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://kiwitcms.org"
 - url: https://openalternative.co/categories/developer-tools/testing-quality-assurance
   normalized_url: https://openalternative.co/categories/developer-tools/testing-quality-assurance
   first_seen_at: 2026-11-23T00:10:29.432Z
@@ -42,6 +59,15 @@
   error: "No items retrieved from URL:
     https://openalternative.co/categories/developer-tools/testing-quality-assur\
     ance"
+- url: https://practitest.com
+  normalized_url: https://practitest.com/
+  first_seen_at: 2026-11-26T14:16:49.521Z
+  last_attempted_at: 2026-11-26T14:16:49.521Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://practitest.com"
 - url: https://qameta.io/allure-testops
   normalized_url: https://qameta.io/allure-testops
   first_seen_at: 2026-11-23T00:20:48.613Z
@@ -51,6 +77,33 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: "No items retrieved from URL: https://qameta.io/allure-testops"
+- url: https://qase.io
+  normalized_url: https://qase.io/
+  first_seen_at: 2026-11-26T14:14:05.464Z
+  last_attempted_at: 2026-11-26T14:14:05.464Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://qase.io"
+- url: https://testlodge.com
+  normalized_url: https://testlodge.com/
+  first_seen_at: 2026-11-26T14:17:45.846Z
+  last_attempted_at: 2026-11-26T14:17:45.846Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL: https://testlodge.com"
+- url: https://testmo.com
+  normalized_url: https://testmo.com/
+  first_seen_at: 2026-11-26T14:16:10.736Z
+  last_attempted_at: 2026-11-26T14:16:10.736Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://testmo.com"
 - url: https://testomat.io
   normalized_url: https://testomat.io/
   first_seen_at: 2026-11-23T00:21:32.865Z
@@ -68,3 +121,22 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: "No items retrieved from URL: https://www.testiny.io/testrail-alternatives"
+- url: https://www.testrail.com/test-management-for-software-teams
+  normalized_url: https://www.testrail.com/test-management-for-software-teams
+  first_seen_at: 2026-11-26T14:13:44.568Z
+  last_attempted_at: 2026-11-26T14:13:44.568Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.testrail.com/test-management-for-software-teams"
+- url: https://xray.app
+  normalized_url: https://xray.app/
+  first_seen_at: 2026-11-26T14:14:49.220Z
+  last_attempted_at: 2026-11-26T14:14:49.220Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL: https://xray.app"
